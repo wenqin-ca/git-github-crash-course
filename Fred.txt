@@ -1,3 +1,4 @@
 Hello Fred!
+I am Fred.
 I am not Fred.
 I love Fred.
